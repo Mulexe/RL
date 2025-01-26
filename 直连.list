@@ -1,3 +1,10 @@
+DOMAIN-SUFFIX,nvidia.cn
+DOMAIN-SUFFIX,coolhub.top
+DOMAIN-SUFFIX,logitech.com
+DOMAIN-SUFFIX,logitechg.com
+DOMAIN-SUFFIX,oneplus.com
+DOMAIN-SUFFIX,mxfcgq.sbs
+
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-KEYWORD,hikarifield
 DOMAIN-SUFFIX,cn
@@ -8,7 +15,6 @@ DOMAIN-KEYWORD,alimama
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,appzapp
 DOMAIN-KEYWORD,baidupcs
-  #- DOMAIN-KEYWORD,bilibili
 DOMAIN-KEYWORD,ccgslb
 DOMAIN-KEYWORD,chinacache
 DOMAIN-KEYWORD,duobao
