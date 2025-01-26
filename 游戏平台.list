@@ -1,0 +1,27 @@
+DOMAIN-SUFFIX,forzamotorsport.net #Xbox
+DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,xboxab.net
+DOMAIN-SUFFIX,xboxab.com
+DOMAIN-SUFFIX,xboxservice.com
+DOMAIN-SUFFIX,xboxservices.com
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,gamepass.com
+DOMAIN-SUFFIX,playfabapi.com
+
+DOMAIN-SUFFIX,playstation.com.hk #Sony
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,playstationemail.com
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+
+DOMAIN-SUFFIX,ubisoftconnect.com #育碧
+DOMAIN-SUFFIX,ubisoft.com
+DOMAIN-SUFFIX,ubi.com
+DOMAIN-SUFFIX,ubi.li
+DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
+DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com
+DOMAIN-SUFFIX,ubistatic3-a.akamaihd.net
+DOMAIN-SUFFIX,ubistatic-a.akamaihd.net
+DOMAIN-KEYWORD,ubisoft
