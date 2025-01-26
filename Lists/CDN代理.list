@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,download.nvidia.com
-DOMAIN-KEYWORD,-00-docs #谷歌网盘
+#谷歌网盘
+DOMAIN-KEYWORD,-00-docs 
 DOMAIN-SUFFIX,nopy.to
 DOMAIN-SUFFIX,gofile.io
 DOMAIN-SUFFIX,racaty.net
@@ -37,7 +38,8 @@ DOMAIN-SUFFIX,storage.msn.com
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,download.prss.microsoft.com
-DOMAIN-SUFFIX,llnwd.net #PS游戏下载
+#谷歌网盘
+DOMAIN-SUFFIX,llnwd.net 
 DOMAIN-SUFFIX,cdnrobot.xyz
 DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,mxdcontent.net
