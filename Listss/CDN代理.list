@@ -8,7 +8,8 @@ DOMAIN-SUFFIX,anonfiles.com
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,mega.io
-DOMAIN-SUFFIX,liveupdate01s.asus.com #ASUS
+DOMAIN-SUFFIX,liveupdate01s.asus.com 
+#ASUS
 DOMAIN-SUFFIX,dlcdn-rogboxbu2.asus.com
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,failiem.lv
@@ -23,7 +24,8 @@ DOMAIN-SUFFIX,uploadhaven.com
 DOMAIN-SUFFIX,pixeldrain.com
 DOMAIN-SUFFIX,mediafire.com
 DOMAIN-SUFFIX,fosshub.com
-DOMAIN-KEYWORD,1drv #OneDrive
+DOMAIN-KEYWORD,1drv 
+#OneDrive
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
 DOMAIN-SUFFIX,livefilestore.com
