@@ -1,0 +1,11 @@
+DOMAIN,www.bilibili.com
+DOMAIN,data.bilibili.com
+DOMAIN,api.bilibili.com
+DOMAIN-SUFFIX,chat.bilibili.com
+
+IP-CIDR,112.83.140.0/24
+IP-CIDR,61.240.206.0/24
+
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,biliapi.com
