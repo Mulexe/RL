@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com #微软
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,officecdn.microsoft.com
-DOMAIN-SUFFIX,uplaypc-s-ubisoft.cdn.ubi.com #育碧
+DOMAIN-SUFFIX,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN-SUFFIX,uplaypc-s-ubisoft-ww.cdn.ubi.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,download.nvidia.cn
