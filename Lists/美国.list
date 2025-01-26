@@ -132,8 +132,9 @@ DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
-DOMAIN-SUFFIX,sharess.cn,DIRECT #App Share
-DOMAIN-KEYWORD,appshare,DIRECT #App Share
+#App Share
+DOMAIN-SUFFIX,sharess.cn,DIRECT 
+DOMAIN-KEYWORD,appshare,DIRECT 
 
 # Amazon
 DOMAIN-SUFFIX,amazon.com
