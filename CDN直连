@@ -1,0 +1,8 @@
+  - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com,DIRECT #微软
+  - DOMAIN-SUFFIX,download.visualstudio.microsoft.com,DIRECT
+  - DOMAIN-SUFFIX,officecdn.microsoft.com,DIRECT
+  - DOMAIN-SUFFIX,uplaypc-s-ubisoft.cdn.ubi.com,DIRECT #育碧
+  - DOMAIN-SUFFIX,uplaypc-s-ubisoft-ww.cdn.ubi.com,DIRECT
+  - DOMAIN-SUFFIX,cloudfront.net,DIRECT
+  - DOMAIN-SUFFIX,download.nvidia.cn,DIRECT
+  - DOMAIN-SUFFIX,epicgames-download1.akamaized.net,DIRECT
