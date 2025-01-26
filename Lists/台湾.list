@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,cdn.hinet.net
 DOMAIN-SUFFIX,eyny.com
 DOMAIN-SUFFIX,bookwalker.tw
-DOMAIN-SUFFIX,ani.gamer.com.tw #巴哈
+#巴哈
+DOMAIN-SUFFIX,ani.gamer.com.tw 
