@@ -1,9 +1,4 @@
 DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamusercontent.com,DIRECT
-DOMAIN,steampipe.akamaized.net,DIRECT
-
-
-
 DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstat.us
