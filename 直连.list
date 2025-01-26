@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,oneplus.com
 DOMAIN-SUFFIX,mxfcgq.sbs
 DOMAIN-SUFFIX,sharess.cn #App Share
 DOMAIN-KEYWORD,appshare #App Share
+DOMAIN,api.vc.bilibili.com
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
 
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-KEYWORD,hikarifield
