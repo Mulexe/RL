@@ -9,9 +9,10 @@ DOMAIN-KEYWORD,appshare #App Share
 DOMAIN,api.vc.bilibili.com
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.tv
-
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-KEYWORD,hikarifield
+DOMAIN-SUFFIX,moegirl.org.cn
+DOMAIN-SUFFIX,pic.baixiongz.com
 
 DOMAIN-KEYWORD,360buy
 DOMAIN-KEYWORD,alicdn
