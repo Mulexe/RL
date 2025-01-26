@@ -1,4 +1,5 @@
-DOMAIN-SUFFIX,forzamotorsport.net #Xbox
+#Xbox
+DOMAIN-SUFFIX,forzamotorsport.net
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xboxab.net
 DOMAIN-SUFFIX,xboxab.com
@@ -7,8 +8,8 @@ DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,playfabapi.com
-
-DOMAIN-SUFFIX,playstation.com.hk #Sony
+#Sony
+DOMAIN-SUFFIX,playstation.com.hk
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
@@ -16,7 +17,7 @@ DOMAIN-SUFFIX,playstationemail.com
 DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 #育碧
-DOMAIN-SUFFIX,ubisoftconnect.com 
+DOMAIN-SUFFIX,ubisoftconnect.com
 DOMAIN-SUFFIX,ubisoft.com
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,ubi.li

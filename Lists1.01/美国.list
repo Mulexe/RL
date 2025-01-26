@@ -6,7 +6,8 @@ DOMAIN-SUFFIX,betterrepack.com
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,sleazyfork.org
 DOMAIN-SUFFIX,nibl.co.uk
-DOMAIN-SUFFIX,github.com #Github
+#Github
+DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
@@ -14,7 +15,7 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-KEYWORD,gitlab
 DOMAIN-SUFFIX,dodi-repacks.site
 #漫画
-DOMAIN-KEYWORD,copymanga 
+DOMAIN-KEYWORD,copymanga
 DOMAIN-SUFFIX,dl.betterrepack.com
 DOMAIN-SUFFIX,illusioncards.booru.org
 DOMAIN-SUFFIX,notion.so
@@ -28,9 +29,9 @@ DOMAIN-KEYWORD,f1accountprod
 DOMAIN-SUFFIX,f1mv.com
 DOMAIN-SUFFIX,nr-data.net
 #绯月
-DOMAIN-SUFFIX,bbs.9shenmi.com 
+DOMAIN-SUFFIX,bbs.9shenmi.com
 # Discord
-DOMAIN-SUFFIX,discord.co 
+DOMAIN-SUFFIX,discord.co
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discord.gg
@@ -134,8 +135,8 @@ DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
 #App Share
-DOMAIN-SUFFIX,sharess.cn,DIRECT 
-DOMAIN-KEYWORD,appshare,DIRECT 
+DOMAIN-SUFFIX,sharess.cn,DIRECT
+DOMAIN-KEYWORD,appshare,DIRECT
 
 # Amazon
 DOMAIN-SUFFIX,amazon.com
@@ -156,7 +157,7 @@ IP-CIDR,54.156.0.0/14,no-resolve
 IP-CIDR,54.226.0.0/15,no-resolve
 IP-CIDR,54.230.156.0/22,no-resolve
 
-# Developer 
+# Developer
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,elastic.co
@@ -176,8 +177,8 @@ DOMAIN-SUFFIX,sourcegraph.com
 DOMAIN-SUFFIX,spring.io
 DOMAIN-SUFFIX,spring.net
 DOMAIN-SUFFIX,stackoverflow.com
-# Wikipedia 
-DOMAIN-SUFFIX,mediawiki.org 
+# Wikipedia
+DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikileaks.org
