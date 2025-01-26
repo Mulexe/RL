@@ -6,4 +6,6 @@ DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,denpasoft.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,samsung.com
-DOMAIN-SUFFIX,ritdon.com #深夜读书会
+#深夜读书会
+DOMAIN-SUFFIX,ritdon.com 
+DOMAIN-SUFFIX,pic.baixiongz.com
