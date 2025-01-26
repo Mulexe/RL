@@ -1,47 +1,45 @@
-  - DOMAIN-SUFFIX,download.nvidia.com
-  - DOMAIN-KEYWORD,-00-docs #谷歌网盘
-  - DOMAIN-SUFFIX,nopy.to
-  - DOMAIN-SUFFIX,gofile.io
-  - DOMAIN-SUFFIX,racaty.net
-  - DOMAIN-SUFFIX,anonfiles.com
-  - DOMAIN-SUFFIX,mega.co.nz
-  - DOMAIN-SUFFIX,mega.nz
-  - DOMAIN-SUFFIX,mega.io
-  - DOMAIN-SUFFIX,liveupdate01s.asus.com #ASUS
-  - DOMAIN-SUFFIX,dlcdn-rogboxbu2.asus.com
-  - DOMAIN-SUFFIX,mypikpak.com
-  - DOMAIN-SUFFIX,failiem.lv
-  - DOMAIN-SUFFIX,files.fm
-  - DOMAIN-SUFFIX,workupload.com
-  - DOMAIN-SUFFIX,xvcf1.xboxlive.com
-  - DOMAIN-SUFFIX,xvcf2.xboxlive.com
-  - DOMAIN-SUFFIX,pythonhosted.org
-  - DOMAIN-SUFFIX,1fichier.com
-  - DOMAIN-SUFFIX,southindia1-mediap.svc.ms
-  - DOMAIN-SUFFIX,uploadhaven.com
-  - DOMAIN-SUFFIX,pixeldrain.com
-  - DOMAIN-SUFFIX,mediafire.com
-  - DOMAIN-SUFFIX,fosshub.com
-  #- DOMAIN-SUFFIX,googlevideo.com #Youtube
-  - DOMAIN-KEYWORD,1drv #OneDrive
-  - DOMAIN-KEYWORD,onedrive
-  - DOMAIN-KEYWORD,skydrive
-  - DOMAIN-SUFFIX,livefilestore.com
-  - DOMAIN-SUFFIX,oneclient.sfx.ms
-  - DOMAIN-SUFFIX,onedrive.com
-  - DOMAIN-SUFFIX,onedrive.live.com
-  - DOMAIN-SUFFIX,photos.live.com
-  - DOMAIN-SUFFIX,skydrive.wns.windows.com
-  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
-  - DOMAIN-SUFFIX,storage.live.com
-  - DOMAIN-SUFFIX,storage.msn.com
-  - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN-SUFFIX,sharepointonline.com
-  #- DOMAIN-SUFFIX,aria.microsoft.com
-  - DOMAIN-SUFFIX,download.prss.microsoft.com
-  - DOMAIN-SUFFIX,llnwd.net #PS游戏下载
-  - DOMAIN-SUFFIX,cdnrobot.xyz
-  - DOMAIN-SUFFIX,cdn77.org
-  - DOMAIN-SUFFIX,mxdcontent.net
-  - DOMAIN-SUFFIX,mixdrop.co
-  - DOMAIN-SUFFIX,dl.playstation.net
+DOMAIN-SUFFIX,download.nvidia.com
+DOMAIN-KEYWORD,-00-docs #谷歌网盘
+DOMAIN-SUFFIX,nopy.to
+DOMAIN-SUFFIX,gofile.io
+DOMAIN-SUFFIX,racaty.net
+DOMAIN-SUFFIX,anonfiles.com
+DOMAIN-SUFFIX,mega.co.nz
+DOMAIN-SUFFIX,mega.nz
+DOMAIN-SUFFIX,mega.io
+DOMAIN-SUFFIX,liveupdate01s.asus.com #ASUS
+DOMAIN-SUFFIX,dlcdn-rogboxbu2.asus.com
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,failiem.lv
+DOMAIN-SUFFIX,files.fm
+DOMAIN-SUFFIX,workupload.com
+DOMAIN-SUFFIX,xvcf1.xboxlive.com
+DOMAIN-SUFFIX,xvcf2.xboxlive.com
+DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,1fichier.com
+DOMAIN-SUFFIX,southindia1-mediap.svc.ms
+DOMAIN-SUFFIX,uploadhaven.com
+DOMAIN-SUFFIX,pixeldrain.com
+DOMAIN-SUFFIX,mediafire.com
+DOMAIN-SUFFIX,fosshub.com
+DOMAIN-KEYWORD,1drv #OneDrive
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,skydrive
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,oneclient.sfx.ms
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,photos.live.com
+DOMAIN-SUFFIX,skydrive.wns.windows.com
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,storage.msn.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,download.prss.microsoft.com
+DOMAIN-SUFFIX,llnwd.net #PS游戏下载
+DOMAIN-SUFFIX,cdnrobot.xyz
+DOMAIN-SUFFIX,cdn77.org
+DOMAIN-SUFFIX,mxdcontent.net
+DOMAIN-SUFFIX,mixdrop.co
+DOMAIN-SUFFIX,dl.playstation.net
