@@ -6,3 +6,5 @@ DOMAIN-SUFFIX,uplaypc-s-ubisoft-ww.cdn.ubi.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,download.nvidia.cn
 DOMAIN-SUFFIX,epicgames-download1.akamaized.net
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN,steampipe.akamaized.net
