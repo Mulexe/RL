@@ -10,7 +10,7 @@ secret: ''
 dns:
     enable: true
     ipv6: true
-    enhanced-mode: fake-ip
+    enhanced-mode: redir-host
     default-nameserver:
       - 223.5.5.5
       - 119.29.29.29
