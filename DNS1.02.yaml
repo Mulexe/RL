@@ -15,19 +15,5 @@ dns:
       - 223.5.5.5
       - 119.29.29.29
     nameserver: [119.29.29.29, 223.5.5.5, 8.8.8.8]
-    fallback: []
+    fallback: [1.1.1.1, 8.8.8.8]
     fallback-filter: { geoip: true, ipcidr: [240.0.0.0/4] }
-    fake-ip-filter: # 下列内容使用real-ip
-      - +.stun.*.*
-      - +.stun.*.*.*
-      - +.stun.*.*.*.*
-      - +.stun.*.*.*.*.*
-      - "*.*.xboxlive.com"
-      - xbox.*.*.microsoft.com
-      - "*.msftncsi.com"
-      - "*.msftconnecttest.com"
-      - +.forzamotorsport.net
-      - singlelogin.me
-      - +.openai.com
-      - +.qq.com
-      - +.formula1.com
