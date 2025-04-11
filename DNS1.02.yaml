@@ -15,5 +15,5 @@ dns:
       - 223.5.5.5
       - 119.29.29.29
     nameserver: [119.29.29.29, 223.5.5.5, 8.8.8.8]
-    fallback: [1.1.1.1, 8.8.8.8]
+    fallback: [https://dns.csaonline.de/dns-query, https://dns.google/dns-query, tls://jp01.dns4me.net, tls://dns.adguard-dns.com]
     fallback-filter: { geoip: true, ipcidr: [240.0.0.0/4] }
