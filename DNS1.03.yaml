@@ -17,12 +17,18 @@ dns:
       "+.steampowered.com": "119.29.29.29"
       "+.nvidia.cn": "119.29.29.29"
       "+.alicdn.com": "223.5.5.5"
+      "geosite: geolocation-!cn":
+      - https://dns.dns-53.us/dns-query
+      - tls://sg01.dns4me.net
+      - tls://unfiltered.adguard-dns.com
     default-nameserver:
       - 223.5.5.5
       - 119.29.29.29
     proxy-server-nameserver:
       - 119.29.29.29
       - 223.5.5.5
-    nameserver: [119.29.29.29, 223.5.5.5, 8.8.8.8]
-    fallback: [https://dns.csaonline.de/dns-query, https://dns.google/dns-query, tls://jp01.dns4me.net, tls://dns.adguard-dns.com, https://public.dns.iij.jp/dns-query]
-    fallback-filter: { geoip: true, geoip-code: CN }
+    nameserver:
+      - 116.228.111.118
+      - 180.168.255.18
+      - 240e:58:c000:1000:116:228:111:118
+      - 240e:58:c000:1600:180:168:255:18
