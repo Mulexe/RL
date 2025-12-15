@@ -17,10 +17,13 @@ dns:
       "+.steampowered.com": "119.29.29.29"
       "+.nvidia.cn": "119.29.29.29"
       "+.alicdn.com": "223.5.5.5"
+      "+.cangku.moe": "8.8.8.8"
+      "+.jd.com": "119.29.29.29"
       "geosite: geolocation-!cn":
-      - https://dns.dns-53.us/dns-query
-      - tls://sg01.dns4me.net
-      - tls://unfiltered.adguard-dns.com
+        - https://dns.dns-53.us/dns-query
+        - tls://sg01.dns4me.net
+        - tls://unfiltered.adguard-dns.com
+        - 8.8.8.8
     default-nameserver:
       - 223.5.5.5
       - 119.29.29.29
