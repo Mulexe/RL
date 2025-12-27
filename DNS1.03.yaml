@@ -21,8 +21,7 @@ dns:
       "+.jd.com": "119.29.29.29"
       "geosite: geolocation-!cn":
         - https://dns.dns-53.us/dns-query
-        - tls://sg01.dns4me.net
-        - tls://unfiltered.adguard-dns.com
+        - 1.1.1.1
         - 8.8.8.8
     default-nameserver:
       - 223.5.5.5
