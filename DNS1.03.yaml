@@ -19,6 +19,7 @@ dns:
       "+.alicdn.com": "223.5.5.5"
       "+.cangku.moe": "8.8.8.8"
       "+.jd.com": "119.29.29.29"
+      +.faleno.jp: https://dns.dns-53.us/dns-query
       "geosite: geolocation-!cn":
         - https://dns.dns-53.us/dns-query
         - 1.1.1.1
