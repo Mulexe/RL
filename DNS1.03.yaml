@@ -2,7 +2,7 @@ port: 7890
 socks-port: 7891
 redir-port: 7892
 allow-lan: false
-ipv6: true
+ipv6: false
 mode: rule
 log-level: debug
 external-controller: '0.0.0.0:9090'
@@ -19,8 +19,10 @@ dns:
       "+.alicdn.com": "223.5.5.5"
       "+.cangku.moe": "8.8.8.8"
       "+.jd.com": "119.29.29.29"
-      +.faleno.jp: https://dns.dns-53.us/dns-query
-      "geosite:geolocation-!cn":
+      "+.faleno.jp": https://dns.dns-53.us/dns-query
+      "+.2dfan.com": https://dns.dns-53.us/dns-query
+      "+.oppai-av.com": https://dns.dns-53.us/dns-query
+      "geosite: geolocation-!cn":
         - https://dns.dns-53.us/dns-query
         - 1.1.1.1
         - 8.8.8.8
@@ -33,5 +35,7 @@ dns:
       - 223.5.5.5
     nameserver:
       - 114.114.114.114
+      - 223.5.5.5
+      - 119.29.29.29
       - 240e:58:c000:1000:116:228:111:118
       - 240e:58:c000:1600:180:168:255:18
