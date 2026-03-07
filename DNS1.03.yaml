@@ -28,7 +28,7 @@ dns:
       "+.faleno.jp": https://dns.dns-53.us/dns-query
       "+.2dfan.com": https://dns.dns-53.us/dns-query
       "+.oppai-av.com": https://dns.dns-53.us/dns-query
-      "+.jm18c-oec.cc": "https://dns.dns-53.us/dns-query"
+      "+.jm18c-oec.cc": https://dns.dns-53.us/dns-query
       "geosite: geolocation-!cn":
         - https://dns.dns-53.us/dns-query
         - 1.1.1.1
@@ -39,8 +39,8 @@ dns:
       - 8.8.8.8
     proxy-server-nameserver:
       - https://dns.dns-53.us/dns-query
-      - https://1.1.1.1/dns-query
-      - https://dns.google/dns-query
+      - 1.1.1.1
+      - 8.8.8.8
     nameserver:
       - https://doh.pub/dns-query
       - 223.5.5.5
