@@ -25,12 +25,13 @@ dns:
       "+.alicdn.com": "223.5.5.5"
       "+.cangku.moe": "8.8.8.8"
       "+.jd.com": "119.29.29.29"
-      "+.faleno.jp": https://dns.dns-53.us/dns-query
-      "+.2dfan.com": https://dns.dns-53.us/dns-query
-      "+.oppai-av.com": https://dns.dns-53.us/dns-query
-      "+.jm18c-oec.cc": https://dns.dns-53.us/dns-query
+      "+.faleno.jp": tls://1.1.1.1
+      "+.2dfan.com": tls://1.1.1.1
+      "+.oppai-av.com": tls://1.1.1.1
+      "+.jm18c-oec.cc": tls://1.1.1.1
       "geosite: geolocation-!cn":
-        - https://dns.dns-53.us/dns-query
+        - tls://1.1.1.1
+        - tls://freedns.controld.com
         - 1.1.1.1
         - 8.8.8.8
     default-nameserver:
@@ -38,7 +39,8 @@ dns:
       - 119.29.29.29
       - 8.8.8.8
     proxy-server-nameserver:
-      - https://dns.dns-53.us/dns-query
+      - tls://1.1.1.1
+      - tls://freedns.controld.com
       - 1.1.1.1
       - 8.8.8.8
     nameserver:
