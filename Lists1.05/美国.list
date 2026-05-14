@@ -140,7 +140,6 @@ DOMAIN-KEYWORD,appshare,DIRECT
 # Amazon
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
-IP-CIDR,13.32.0.0/15,no-resolve
 IP-CIDR,13.35.0.0/17,no-resolve
 IP-CIDR,18.184.0.0/15,no-resolve
 IP-CIDR,18.194.0.0/15,no-resolve
