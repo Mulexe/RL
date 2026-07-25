@@ -24,9 +24,9 @@ dns:
       "+.nvidia.cn": "119.29.29.29"
       "+.alicdn.com": "223.5.5.5"
       "+.cangku.moe": "8.8.8.8"
-      "+.jd.com": "119.29.29.29"
-      "+.360buyimg.com: 223.5.5.5"
-      "+.jcloudcs.com: 223.5.5.5"
+      "+.jd.com": "223.5.5.5"
+      "+.360buyimg.com": "223.5.5.5"
+      "+.jcloudcs.com": "223.5.5.5"
       "+.faleno.jp": tls://1.1.1.1
       "+.2dfan.com": tls://1.1.1.1
       "+.oppai-av.com": tls://1.1.1.1
