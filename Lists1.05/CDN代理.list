@@ -1,6 +1,6 @@
 DOMAIN-SUFFIX,download.nvidia.com
 #谷歌网盘
-DOMAIN-KEYWORD,-00-docs 
+DOMAIN-KEYWORD,-00-docs
 DOMAIN-SUFFIX,nopy.to
 DOMAIN-SUFFIX,gofile.io
 DOMAIN-SUFFIX,racaty.net
@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,anonfiles.com
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,mega.io
-DOMAIN-SUFFIX,liveupdate01s.asus.com 
+DOMAIN-SUFFIX,liveupdate01s.asus.com
 #ASUS
 DOMAIN-SUFFIX,dlcdn-rogboxbu2.asus.com
 DOMAIN-SUFFIX,mypikpak.com
@@ -24,7 +24,7 @@ DOMAIN-SUFFIX,uploadhaven.com
 DOMAIN-SUFFIX,pixeldrain.com
 DOMAIN-SUFFIX,mediafire.com
 DOMAIN-SUFFIX,fosshub.com
-DOMAIN-KEYWORD,1drv 
+DOMAIN-KEYWORD,1drv
 #OneDrive
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
@@ -40,8 +40,9 @@ DOMAIN-SUFFIX,storage.msn.com
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,download.prss.microsoft.com
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 #PS游戏下载
-DOMAIN-SUFFIX,llnwd.net 
+DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,cdnrobot.xyz
 DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,mxdcontent.net
